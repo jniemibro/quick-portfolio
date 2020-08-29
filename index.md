@@ -8,11 +8,12 @@
 <img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+[The Arcane Relics](https://niemi-bros.itch.io/the-arcane-relics)
+<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>
 [Project 3 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
