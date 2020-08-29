@@ -5,7 +5,7 @@
 ### Projects
 
 <img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>
-[<img src="images/steam.png?raw=true"/>](https://store.steampowered.com/app/1019730/Chipmonk/)[<img src="images/itch.png?raw=true"/>](https://niemi-bros.itch.io/chipmonk)
+[<img src="images/steam.png?raw=false"/>](https://store.steampowered.com/app/1019730/Chipmonk/)[<img src="images/itch.png?raw=false"/>](https://niemi-bros.itch.io/chipmonk)
 
 
 ---
