@@ -1,7 +1,18 @@
 ## Chipmonk!
 
-**Project description:** A retro-inspired beat 'em up starring chipmnuk warriors. Available on itch.io and Steam for Windows and macOS. Built using Unity.
+##### Retro-inspired beat 'em up starring chipmunk warriors
+[<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>]
 
 ---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Team Size**: 2
+**Engine**: Unity
+**Platforms**: Windows, macOS
+
+Released on itch.io in 2018
+Released on Steam in 2019
+
+[<img src="images/steam.png?raw=true"/>](https://store.steampowered.com/app/1019730/Chipmonk/)[<img src="images/itch.png?raw=true"/>](https://niemi-bros.itch.io/chipmonk)
+
+---
+
