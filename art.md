@@ -3,7 +3,43 @@
 ---
 
 #### Acrylic Paintings
-<img src="images/paintings/Babbling Brook.jpg?raw=false"/><img src="images/paintings/Old Mill.jpg?raw=false"/><img src="images/paintings/Stream.jpg?raw=false"/><img src="images/paintings/Saima Park Brook.jpg?raw=false"/><img src="images/paintings/Tea Kettle.jpg?raw=false"/><img src="images/paintings/Winter Evening.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Old Mill.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Stream.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Saima Park Brook.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Tea Kettle.jpg?raw=false"/>
+<img src="images/acrylic_paintings/Winter Evening.jpg?raw=false"/>
+
+---
+
+#### Digital Art
+[Bümbardia Promo]
+<img src="images/digital_art/bumbardia.jpg?raw=false"/>
+---
+
+
+[Colorful Canyons]
+<img src="images/digital_art/canyons.jpg?raw=false"/>
+---
+
+
+[Chipmonk! Promo]
+<img src="images/digital_art/chipmonk.jpg?raw=false"/>
+---
+
+
+[Forest Path]
+<img src="images/digital_art/forestpath.jpg?raw=false"/>
+---
+
+
+[Huntress]
+<img src="images/digital_art/huntress.jpg?raw=false"/>
+---
+
+
+[Knight]
+<img src="images/digital_art/knight.jpg?raw=false"/>
 
 ---
 
