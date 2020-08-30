@@ -1,5 +1,8 @@
 ## Chipmonk!
 
+---
+[Game Dev](/game_dev) -> Chipmonk!
+
 ##### Retro-inspired beat 'em up starring chipmunk warriors
 <img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>
 
