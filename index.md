@@ -2,7 +2,7 @@
 
 ---
 
-### Projects
+### Game Development Projects
 
 #### Chipmonk!
 ##### Retro-inspired beat 'em up starring chipmunk warriors
@@ -11,18 +11,24 @@
 
 ---
 #### The Arcane Relics™
+##### Split-screen fantasy RPG
 <img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>
 [<img src="images/itch.png?raw=true"/>](https://niemi-bros.itch.io/the-arcane-relics)
 
 ---
-[Project 2 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Bümbardia™
 
 ---
-[Project 3 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Nanoswarm
 
 ---
+#### Bombardment
+
+---
+#### Cannon Duel
+
+---
+
 
 ---
 
