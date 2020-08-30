@@ -9,9 +9,9 @@
 **Engine**: Unity
 **Platforms**: Windows, macOS, Linux
 
-<img src="/tar/1.jpg?raw=true/>
-<img src="/tar/2.jpg?raw=true/>
-<img src="/tar/goal_debug.jpg?raw=true/>
+<img src="images/tar/1.jpg?raw=true/>
+<img src="images/tar/2.jpg?raw=true/>
+<img src="images/tar/goal_debug.jpg?raw=true/>
 
 Demos are available on itch.io
 

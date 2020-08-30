@@ -9,8 +9,8 @@
 **Engine**: Unity
 **Platforms**: Windows, macOS
 
-<img src="/chipmonk/rainbattle.gif?raw=true/>
-<img src="/chipmonk/riverbattle.gif?raw=true/>
+<img src="images/chipmonk/rainbattle.gif?raw=true/>
+<img src="images/chipmonk/riverbattle.gif?raw=true/>
 
 Released on itch.io in 2018
 Released on Steam in 2019
