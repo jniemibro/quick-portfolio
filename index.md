@@ -2,11 +2,11 @@
 
 ---
 
-[Art Galleries](/art)
-[<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>](/art)
-<br><br>
 [Game Development](/game_dev)
 [<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>](/game_dev)
+<br><br>
+[Art Galleries](/art)
+[<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>](/art)
 
 ---
 
