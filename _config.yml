@@ -1,17 +1,17 @@
 title: Jonathan Niemi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  #Art, Design, & Programming
+  Art, Design, & Programming
   <br><br>
   Navigation:
   <br><br>
-  <a href="https://jniemibro.github.io">**Home**</a>
+  <a href="https://jniemibro.github.io">Home</a>
   <br><br>
-  <a href="https://jniemibro.github.io/art">**Art**</a> 
+  <a href="https://jniemibro.github.io/art">Art</a> 
   <br><br>
-  <a href="https://jniemibro.github.io/game_dev">**Game Dev**</a> 
+  <a href="https://jniemibro.github.io/game_dev">Game Dev</a> 
   <br><br>
-  <a href="https://www.linkedin.com/in/jontniemi/">**LinkedIn**</a> 
+  <a href="https://www.linkedin.com/in/jontniemi/"><b>LinkedIn</b></a> 
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
