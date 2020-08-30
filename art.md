@@ -3,7 +3,7 @@
 ---
 
 #### Acrylic Paintings
-[<img src="images/paintings/Babbling Brook.jpg?raw=false"/>][<img src="images/paintings/Old Mill.jpg?raw=false"/>][<img src="images/paintings/Stream.jpg?raw=false"/>][<img src="images/paintings/Saima Park Brook.jpg?raw=false"/>][<img src="images/paintings/Tea Kettle.jpg?raw=false"/>][<img src="images/paintings/Winter Evening.jpg?raw=false"/>]
+<img src="images/paintings/Babbling Brook.jpg?raw=false"/><img src="images/paintings/Old Mill.jpg?raw=false"/><img src="images/paintings/Stream.jpg?raw=false"/><img src="images/paintings/Saima Park Brook.jpg?raw=false"/><img src="images/paintings/Tea Kettle.jpg?raw=false"/><img src="images/paintings/Winter Evening.jpg?raw=false"/>
 
 ---
 

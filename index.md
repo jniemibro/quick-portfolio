@@ -3,7 +3,8 @@
 ---
 
 [Art Galleries](/art)
-[Game Development](/game-dev)
+<br><br>
+[Game Development](/game_dev)
 
 ---
 
