@@ -1,7 +1,7 @@
 ## The Arcane Relics™
 
 ---
-[Game Dev](/game_dev) -> The Arcane Relics™
+[Home](/) -> [Game Dev](/game_dev) -> The Arcane Relics™
 
 ##### Medieval-fantasy RPG featuring split-screen multiplayer
 <img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>

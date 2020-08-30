@@ -1,6 +1,7 @@
 ## Art Galleries
 
 ---
+[Home](/) -> Art Galleries
 
 #### Acrylic Paintings
 <img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>
