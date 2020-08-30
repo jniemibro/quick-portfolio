@@ -10,7 +10,7 @@
 ---
 #### The Arcane Relics™
 ##### Split-screen fantasy RPG
-<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>(/tar)
+[<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>](/tar)
 [<img src="images/itch.png?raw=true"/>](https://niemi-bros.itch.io/the-arcane-relics)
 
 ---

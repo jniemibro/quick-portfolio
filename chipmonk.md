@@ -1,13 +1,16 @@
 ## Chipmonk!
 
 ##### Retro-inspired beat 'em up starring chipmunk warriors
-[<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>]
+<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>
 
 ---
 
 **Team Size**: 2
 **Engine**: Unity
 **Platforms**: Windows, macOS
+
+<img src="/chipmonk/rainbattle.gif?raw=true/>
+<img src="/chipmonk/riverbattle.gif?raw=true/>
 
 Released on itch.io in 2018
 Released on Steam in 2019
