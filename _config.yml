@@ -3,13 +3,6 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Art, Design, & Programming</b>
   <br><br>
-  <br><br>
-  <a href="https://jniemibro.github.io">Home</a>
-  <br><br>
-  <a href="https://jniemibro.github.io/art">Art</a> 
-  <br><br>
-  <a href="https://jniemibro.github.io/game_dev">Game Dev</a> 
-  <br><br>
   <a href="https://www.linkedin.com/in/jontniemi/">LinkedIn</a> 
 
 theme: jekyll-theme-minimal
