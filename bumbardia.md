@@ -8,7 +8,7 @@
 
 ---
 
-**My Role(s)**: Programmer, Build Manager, Audio, Designer, 3D/2D Art
+**My Role(s)**: Programmer, Build Manager, Audio, Designer, 2D/3D Art
 <br>
 **Team Size**: 5
 <br>
@@ -19,7 +19,9 @@
 
 <iframe width="560" height="420" src="https://www.indiedb.com/media/iframe/1943541" frameborder="0" allowfullscreen></iframe><br><a href="https://www.indiedb.com/games/bumbardia/videos/ipad-playthrough">iPad Playthrough - Indie DB</a>
 
-Winner of MassDiGI's Best College Prototype (2014)
+**Awards**:
+<br>
+- Winner of MassDiGI's Best College Prototype (2014)
 <br>
 
 Previously available on the App Store.

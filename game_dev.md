@@ -13,7 +13,7 @@
 [<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>](/tar)
 
 ---
-#### [Bümbardia™](/bumbarida) (2015)
+#### [Bümbardia™](/bumbardia) (2015)
 ##### Infinite runner where you supply air support for a band of foolhardy soldiers.
 [<img src="images/digital_art/bumbardia.jpg?raw=true"/>](/bumbardia)
 

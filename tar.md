@@ -15,8 +15,8 @@
 **Platforms**: Windows, macOS, Linux
 <br>
 
-<img src="images/tar/1.jpg?raw=true"/>
-<img src="images/tar/2.jpg?raw=true"/>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QP5MXoubB_o?start=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img src="images/tar/goal_debug.jpg?raw=true"/>
 
 Demos are available on itch.io.

@@ -9,6 +9,7 @@
 ---
 
 **My Role(s)**: Programmer, Build Manager, Designer
+<br>
 **Team Size**: 6
 <br>
 **Engine**: Unity
@@ -16,7 +17,9 @@
 **Platforms**: iPad
 <br>
 
-Winner of MassDiGI's Best Game Concept (2012)
+**Awards**:
+<br>
+- Winner of MassDiGI's Best Game Concept (2012)
 <br>
 
 Previously available on the App Store.

@@ -9,6 +9,7 @@
 ---
 
 **Main Role(s)**: Programmer
+<br>
 **Team Size**: 2
 <br>
 **Engine**: Unity
