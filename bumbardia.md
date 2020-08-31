@@ -4,7 +4,7 @@
 [Home](/) -> [Game Dev](/game_dev) -> Bümbardia™
 
 ##### Infinite scroller where you assume the role of air support for a band of foolhardy soldiers.
-<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>
+<img src="images/digital_art/bumbardia.jpg?raw=true"/>
 
 ---
 
