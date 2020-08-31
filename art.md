@@ -1,47 +1,12 @@
-## Art Galleries
-
----
-[Home](/) -> Art Galleries
-
-#### Acrylic Paintings
-<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>
-<img src="images/acrylic_paintings/Old Mill.jpg?raw=false"/>
-<img src="images/acrylic_paintings/Stream.jpg?raw=false"/>
-<img src="images/acrylic_paintings/Saima Park Brook.jpg?raw=false"/>
-<img src="images/acrylic_paintings/Tea Kettle.jpg?raw=false"/>
-<img src="images/acrylic_paintings/Winter Evening.jpg?raw=false"/>
+## Art
 
 ---
 
-#### Digital Art
-[Bümbardia Promo]
-<img src="images/digital_art/bumbardia.jpg?raw=false"/>
-Painted in GIMP
-
----
-Colorful Canyons
-<img src="images/digital_art/canyons.jpg?raw=false"/>
-Painted in GIMP
-
----
-Chipmonk! Promo
-<img src="images/digital_art/chipmonk.jpg?raw=false"/>
-Collaborative artwork with Andrew Niemi. Painted in GIMP.
-
----
-[Forest Path]
-<img src="images/digital_art/forestpath.jpg?raw=false"/>
-Painted in GIMP.
-
----
-[Huntress]
-<img src="images/digital_art/huntress.jpg?raw=false"/>
-Painted in GIMP.
-
----
-[Knight]
-<img src="images/digital_art/knight.jpg?raw=false"/>
-Painted in GIMP.
+[Acrylic Paintings](/acrylic)
+[<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>](/art)
+<br><br>
+[Digital Art](/digital_art)
+[<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>](/game_dev)
 
 ---
 
