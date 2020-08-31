@@ -1,6 +1,7 @@
 ## Art
 
 ---
+[Home](/) -> Art
 
 [Acrylic Paintings](/acrylic)
 [<img src="images/acrylic_paintings/Babbling Brook.jpg?raw=false"/>](/art)
