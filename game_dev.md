@@ -26,7 +26,7 @@
 ##### Drop bombs on unsuspecting targets
 
 ---
-#### [Cannon Duel](/cannonduel) (2009)
+#### [Cannon Duel](/cannon_duel) (2009)
 ##### Take turns firing at an AI controlled cannon
 
 ---
