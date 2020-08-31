@@ -17,6 +17,9 @@
 
 <iframe width="560" height="420" src="https://www.indiedb.com/media/iframe/1943541" frameborder="0" allowfullscreen></iframe><br><a href="https://www.indiedb.com/games/bumbardia/videos/ipad-playthrough">iPad Playthrough - Indie DB</a>
 
+Winner of MassDiGI's Best College Prototype (2014)
+<br>
+
 Previously available on the App Store.
 Released on the App Store in 2015.
 

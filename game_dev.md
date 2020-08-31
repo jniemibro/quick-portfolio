@@ -3,28 +3,31 @@
 ---
 [Home](/) -> Game Dev
 
-#### Chipmonk!
-##### Retro-inspired beat 'em up starring chipmunk warriors
+#### [Chipmonk!](/chipmonk) ~ 2018-19
+##### Retro-inspired beat 'em up starring chipmunk warriors.
 [<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>](/chipmonk)
 
 ---
-#### The Arcane Relics™
-##### Medieval-fantasy RPG featuring split-screen multiplayer
+#### [The Arcane Relics™](/tar) ~ WIP
+##### Medieval-fantasy RPG featuring split-screen multiplayer.
 [<img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>](/tar)
 
 ---
-#### Bümbardia™
-Infinite runner where you supply air support for a band of foolhardy soldiers
+#### [Bümbardia™](/bumbarida) ~ 2015
+##### Infinite runner where you supply air support for a band of foolhardy soldiers.
 [<img src="images/digital_art/bumbardia.jpg?raw=true"/>](/bumbardia)
 
 ---
-#### Nanoswarm
+#### [Nanoswarm](/nanoswarm) ~ 2012
+##### Adventure puzzler where you navigate clouds of nanobots through a laboratory.
 
 ---
-#### Bombardment
+#### Bombardment (2010)
+##### Drop bombs on unsuspecting targets
 
 ---
-#### Cannon Duel
+#### Cannon Duel (2009)
+##### Take turns firing at an AI controlled cannon
 
 ---
 
