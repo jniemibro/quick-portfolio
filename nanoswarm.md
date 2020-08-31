@@ -8,6 +8,7 @@
 
 ---
 
+**My Role(s)**: Programmer, Build Manager, Designer
 **Team Size**: 6
 <br>
 **Engine**: Unity

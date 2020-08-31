@@ -8,11 +8,13 @@
 
 ---
 
+**My Role(s)**: Programmer, Build Manager, Audio, Designer, 3D/2D Art
+<br>
 **Team Size**: 5
 <br>
 **Engine**: Unity
 <br>
-**Platforms**: iOS
+**Platforms**: iOS Universal
 <br>
 
 <iframe width="560" height="420" src="https://www.indiedb.com/media/iframe/1943541" frameborder="0" allowfullscreen></iframe><br><a href="https://www.indiedb.com/games/bumbardia/videos/ipad-playthrough">iPad Playthrough - Indie DB</a>
