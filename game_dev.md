@@ -4,10 +4,8 @@
 [Home](/) -> Game Dev
 
 ---
-### Released Titles
-
----
-
+### Released Titles:
+<br>
 #### [Chipmonk!](/chipmonk) (2018, 2019)
 ##### Retro-inspired beat 'em up starring chipmunk warriors.
 [<img src="https://media.indiedb.com/images/presskit/1/2/1054/Chipmonk_Cover_Art_ReallyWide.1.png?raw=true"/>](/chipmonk)
@@ -36,8 +34,10 @@
 
 ---
 
-### Hobby Projects/Experiments
-
+---
+### Hobbyist Projects/Experiments:
+<br>
+TODO:
 
 ---
 

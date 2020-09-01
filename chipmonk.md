@@ -29,3 +29,16 @@ Released on Steam in 2019.
 
 ---
 
+Notables:
+<br>
+- Handled Steamworks setup, builds and integrating Steamworks .NET plugin.
+- Developed build tools to ease build process and clarity for three build types: arcade, steam, itch.
+- Developed some custom shaders for various FX such as waving greenery, sprite outlines, and hue shifting.
+- Collaborated with Becker College in setting up a playable arcade version of the game.
+<img src="images/chipmonk/arcade.jpg?raw=true"/>
+
+---
+
+---
+
+---
