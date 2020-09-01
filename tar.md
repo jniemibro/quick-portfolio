@@ -25,19 +25,22 @@ Demos are available on itch.io.
 
 ---
 
-#History
+---
 
 ---
 
-The Arcane Relics has been in the works since about 2009. We originally called it our White Whale, (little did I know how well-suited that name is for the scope of this project…) however the current version of the game has been from a fresh start in 2014, adding the split-screen multiplayer and more physics-reliant use of ragdolls and weapons hitting specific limbs. We were Greenlit on Steam in 2015 and released v0.2 at the beginning of 2020.
+## History
 
-~
+---
 
-At first, the game targeted iOS devices and was only single-player. We used this project primarily for learning, experimenting on whatever we wanted to try to make. Here some old screenshots:
+_The Arcane Relics_ has been in the works for quite a while, since about 2009... However, the current version of the game has been from a fresh start in 2014, adding the split-screen multiplayer and more physics-reliant use of ragdolls and weapons hitting specific limbs.
+
+At first, the game targeted iOS devices and was only single-player. We used this project primarily for learning, experimenting on whatever features we wanted to try to make. Here are some old screenshots:
 
 <br>
-Started using C# in this version
 <img src="images/tar/old_s2.jpg?raw=true"/>
+Started using C# in this version
+
 
 <br>
 This version we call the "classic", as we got alot of features in, though buggy. I was still using unityscript at this time.
