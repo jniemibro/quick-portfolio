@@ -8,6 +8,8 @@
 
 ---
 
+**My Role(s)**: Programmer, Build Manager, SFX/Music, Designer, Artist
+<br>
 **Team Size**: 2
 <br>
 **Engine**: Unity

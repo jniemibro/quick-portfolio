@@ -3,11 +3,14 @@
 ---
 [Home](/) -> [Game Dev](/game_dev) -> The Arcane Relics™
 
+---
 ##### Medieval-fantasy RPG featuring split-screen multiplayer
 <img src="https://media.indiedb.com/images/members/4/3265/3264780/profile/TAR_Icon_Banner.png?raw=true"/>
 
 ---
 
+**Main Role(s)**: Programmer, Build Manager, Designer
+<br>
 **Team Size**: 2 + contractors
 <br>
 **Engine**: Unity
@@ -19,7 +22,7 @@
 
 <img src="images/tar/goal_debug.jpg?raw=true"/>
 
-Demos are available on itch.io.
+Pre-alpha demos are available on itch.io.
 
 [<img src="images/itch.png?raw=true"/>](https://niemi-bros.itch.io/the-arcane-relics)
 
