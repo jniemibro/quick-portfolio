@@ -19,8 +19,8 @@
 
 <iframe width="560" height="420" src="https://www.indiedb.com/media/iframe/1943541" frameborder="0" allowfullscreen></iframe><br><a href="https://www.indiedb.com/games/bumbardia/videos/ipad-playthrough">iPad Playthrough - Indie DB</a>
 
-<img src="images/bumbardia/1.jpg?raw=true"/>
-<img src="images/bumbardia/2.jpg?raw=true"/>
+<img src="images/bumbardia/1.png?raw=true"/>
+<img src="images/bumbardia/2.png?raw=true"/>
 
 **Awards**:
 <br>
