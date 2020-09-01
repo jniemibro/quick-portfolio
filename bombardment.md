@@ -17,6 +17,7 @@
 **Platforms**: iPhone/iPod Touch
 <br>
 
+<img src="images/bombardment/1.jpg?raw=true"/>
 
 Previously available on the App Store.
 Released on the App Store in 2010.

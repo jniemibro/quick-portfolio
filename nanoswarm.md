@@ -6,6 +6,8 @@
 ---
 ##### Adventure puzzler where you navigate clouds of nanobots through a laboratory.
 
+The game was developed during Mass DiGI's first Summer Innovation Program (SIP) in 2012 through an extensive 11-week period.
+
 ---
 
 **My Role(s)**: Programmer, Build Manager, Designer
@@ -17,9 +19,13 @@
 **Platforms**: iPad
 <br>
 
+<img src="images/nanoswarm/1.jpg?raw=true"/>
+<img src="images/nanoswarm/2.jpg?raw=true"/>
+
 **Awards**:
 <br>
-- Winner of MassDiGI's Best Game Concept (2012)
+- MassDiGI's Annual Game Challenge 2012, Grand Prize
+- MassDiGI's Annual Game Challenge 2012, Best Concept
 <br>
 
 Previously available on the App Store.
