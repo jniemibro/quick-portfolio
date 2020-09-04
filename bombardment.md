@@ -4,7 +4,9 @@
 [Home](/) -> [Game Dev](/game_dev) -> Bombardment
 
 ---
-##### Drop bombs on unsuspecting targets
+##### Drop bombs upon unsuspecting targets
+
+_Bombardment_ was the 2nd game that I finished and launched.
 
 ---
 
