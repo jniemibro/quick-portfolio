@@ -3,7 +3,12 @@
 ---
 [Home](/) -> [Art](/art) -> Digital Art
 
-#### Digital Art
+---
+#### Pixel Art
+<img src="images/digital_art/pixel_art/hen_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/rooster_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/dragonfly.PNG?raw=true"/>
+
+---
+#### Digital Painting
 Bümbardia Promo
 <img src="images/digital_art/bumbardia.jpg?raw=true"/>
 Painted in GIMP
@@ -32,11 +37,6 @@ Painted in GIMP.
 Knight
 <img src="images/digital_art/knight.jpg?raw=true"/>
 Painted in GIMP.
-
----
-#### Pixel Art
-
-<img src="images/digital_art/pixel_art/dragonfly.PNG?raw=true"/> <img src="images/digital_art/pixel_art/hen_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/rooster_portrait.PNG?raw=true"/>
 
 ---
 
