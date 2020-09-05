@@ -4,34 +4,39 @@
 [Home](/) -> [Art](/art) -> Digital Art
 
 #### Digital Art
-[Bümbardia Promo]
-<img src="images/digital_art/bumbardia.jpg?raw=false"/>
+Bümbardia Promo
+<img src="images/digital_art/bumbardia.jpg?raw=true"/>
 Painted in GIMP
 
 ---
 Colorful Canyons
-<img src="images/digital_art/canyons.jpg?raw=false"/>
+<img src="images/digital_art/canyons.jpg?raw=true"/>
 Painted in GIMP
 
 ---
 Chipmonk! Promo
-<img src="images/digital_art/chipmonk.jpg?raw=false"/>
+<img src="images/digital_art/chipmonk.jpg?raw=true"/>
 Collaborative artwork with Andrew Niemi. Painted in GIMP.
 
 ---
-[Forest Path]
-<img src="images/digital_art/forestpath.jpg?raw=false"/>
+Forest Path
+<img src="images/digital_art/forestpath.jpg?raw=true"/>
 Painted in GIMP.
 
 ---
-[Huntress]
-<img src="images/digital_art/huntress.jpg?raw=false"/>
+Huntress
+<img src="images/digital_art/huntress.jpg?raw=true"/>
 Painted in GIMP.
 
 ---
-[Knight]
-<img src="images/digital_art/knight.jpg?raw=false"/>
+Knight
+<img src="images/digital_art/knight.jpg?raw=true"/>
 Painted in GIMP.
+
+---
+#### Pixel Art
+
+<img src="images/digital_art/pixel_art/dragonfly.PNG?raw=true"/> <img src="images/digital_art/pixel_art/hen_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/rooster_portrait.PNG?raw=true"/>
 
 ---
 
