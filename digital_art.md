@@ -9,7 +9,7 @@
 <br>
 <img src="images/digital_art/pixel_art/hen_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/rooster_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/angry_warrior.PNG?raw=true"/> <img src="images/digital_art/pixel_art/knight.PNG?raw=true"/> <img src="images/digital_art/pixel_art/wizard.PNG?raw=true"/> <img src="images/digital_art/pixel_art/necro.PNG?raw=true"/> <img src="images/digital_art/pixel_art/minotaur.PNG?raw=true"/> 
 <br>
-<img src="images/digital_art/pixel_art/wood_fence.PNG?raw=true"/> <img src="images/digital_art/pixel_art/desk.PNG?raw=true"/>
+<img src="images/digital_art/pixel_art/wood_fence.PNG?raw=true"/> <img src="images/digital_art/pixel_art/desk.PNG?raw=true"/> <img src="images/digital_art/pixel_art/pizza.PNG?raw=true"/> <img src="images/digital_art/pixel_art/cookie.PNG?raw=true"/>
 
 ---
 #### Digital Painting
