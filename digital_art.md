@@ -5,7 +5,7 @@
 
 ---
 #### Pixel Art
-<img src="images/digital_art/pixel_art/dragonfly.PNG?raw=true"/>
+<img src="images/digital_art/pixel_art/dragonfly.PNG?raw=true"/> <img src="images/digital_art/pixel_art/spearat.PNG?raw=true"/>
 <br>
 <img src="images/digital_art/pixel_art/hen_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/rooster_portrait.PNG?raw=true"/> <img src="images/digital_art/pixel_art/knight.PNG?raw=true"/> 
 
