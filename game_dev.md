@@ -26,11 +26,11 @@
 
 ---
 #### [Bombardment](/bombardment) (2010)
-##### Drop bombs on unsuspecting targets
+##### Drop bombs upon unsuspecting targets
 
 ---
 #### [Cannon Duel](/cannon_duel) (2009)
-##### Take turns firing at an AI controlled cannon
+##### Take turns firing at an opposing AI controlled cannon
 
 ---
 
